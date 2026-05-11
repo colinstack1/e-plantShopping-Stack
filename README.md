@@ -7,6 +7,10 @@ A modern e-commerce web application built with React, Redux Toolkit, and Vite th
  **Source Code:** https://github.com/colinstack1/e-plantShopping-Stack
 
 ---
+## Live Demo
+
+🔗 [View the Live Application](https://colinstack1.github.io/e-plantShopping-Stack/)
+--
 
 ## Project Overview
 
